@@ -1,4 +1,4 @@
-<h1 align="center">What's up? I'm Bruno Ribeiro</h1>
+<h1 align="center">What's up? I'm João Fittipaldi</h1>
 
 <br>
 
