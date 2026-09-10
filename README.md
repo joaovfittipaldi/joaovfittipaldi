@@ -16,7 +16,9 @@
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=306998)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=F7DF1E)&nbsp; 
+![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=F7DF1E)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
